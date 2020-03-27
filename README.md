@@ -1,7 +1,7 @@
 # COVID-19-Live-Updates
 
 ## 1.Introduction
-The number of COVID-19 cases are increasing at a higher rate everyday worldwide. We need to be safe and stay at home. Many forwarded messages in social media provide false information about the virus and status of the cases worldwide. So, it is necessary to correct information regarding this. I have created a simple application in python that scraps data from the Ministry of Health and Family Welfare Official Website and display the data in the form of chart for visualization and the data is exported in the form of CSV file.
+The number of COVID-19 cases are increasing at a higher rate everyday worldwide. We need to be safe and stay at home. Many forwarded messages in social media provide false information about the virus and status of the cases worldwide. So, it is necessary to correct information regarding this. I have created a simple application in python that scraps data from the Ministry of Health and Family Welfare, India Official Website and display the data in the form of chart for visualization and the data is exported in the form of CSV file.
 
 ## 2.Getting Started and Setup
 * Clone or download this repository as ZIP format.
