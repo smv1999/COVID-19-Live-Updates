@@ -8,3 +8,5 @@ The number of COVID-19 cases are increasing at a higher rate everyday worldwide.
 * Requirements: You can install the Python packages by using this command in the Command Prompt: `pip install -r requirements.txt`
 * After that you are good to proceed to see a demo of the application.
 * Run the project `python main.py` and you can see the Data Visualization and the exported CSV file as the output.
+
+![alt text](https://raw.githubusercontent.com/smv1999/COVID-19-Live-Updates/master-branch/path/to/result.png)
