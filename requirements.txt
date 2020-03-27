@@ -1,0 +1,5 @@
+matplotlib
+numpy
+tabulate
+bs4 
+requests
